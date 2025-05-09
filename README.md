@@ -51,7 +51,7 @@ I'm a **vision-driven tech enthusiast**, passionate about making meaningful impa
 
 - 🎸 Guitarist | 🖌️ Calligrapher | 🎨 Painter | ✍️ Occasional writer and reader  
 - I seek peace at night and challenge during the day.  
-- My ultimate goal? To be **CEO of Technologistics** and an **inspiration to others.**
+- My ultimate goal? To make **Technologistics a leading software hub** and an **inspiration to others.**
 
 ---
 
