@@ -1,83 +1,49 @@
-# 👋 Hi, I'm Hassan Ali Mehdi
+# Hassan Ali Mehdi
 
-I'm a **vision-driven tech enthusiast**, passionate about making meaningful impact through artificial intelligence and real-world problem solving. As the **President of the AI Society at The Superior University**, I strive to empower others by building communities, launching initiatives, and crafting digital solutions that improve lives.
+**AI Engineer at Codantrix Labs.** I build agentic AI systems for teams that need the thing actually shipped, not another strategy deck.
 
-> *"It takes ordinary efforts to live an ordinary life. To be extraordinary, you need to make limitless efforts."* — Ehmad Zubair (CEO Cogent Labs)
-
----
-
-## 🧠 About Me
-
-- 🎯 My mission is to prove that *our lives aren't short—our efforts are*.
-- 🧩 I believe in building with purpose and leading with clarity.
-- 🚀 Currently working on the **AI Mastery Roadmap** to help students master real-world AI tools and practices.
+[hassanalimehdi.dev](https://hassanalimehdi.dev) · [LinkedIn](https://linkedin.com/in/hassan-ali-mehdi) · hello@hassanalimehdi.dev · Lahore, Pakistan
 
 ---
 
-## 💼 Experience
+## What I build
 
-- **CEO** @ [Technologistics.pk](https://technologistics.pk) — Leading a cross-functional software company focused on building AI bots, automation systems, and impactful applications.
-- **President** @ Superior AI Society — Leading events, competitions, and AI awareness at inter and intra - university level.
-- **Volunteer** @ SkillSprint, Tech Summits — Delivered & Managed workshops and mentored students.
+- Multi-agent orchestration & end-to-end agentic workflows
+- RAG systems with hierarchical retrieval
+- AI-integrated automation for ops, sales, and content pipelines
+- Fine-tuning & open-weight model deployment
 
----
+## Things I've shipped
 
-## 🛠️ Tech Stack
+**RentCentral** — Multi-agent copilot for US real estate agents. Zillow and platform integrations driving the full deal cycle: offering, negotiation, appointment-setting, follow-up. Effectively a multi-agent dealmaker before "agent" meant what it means now.
 
-**Languages & Frameworks:**
-- Python, C++, JavaScript, Dart, HTML/CSS
+**Luxe Maintenance Corp** — End-to-end ops system for a field-services company. AI handled scraping, lead qualification, estimating, technician assignment, and invoicing. Client portals for tracking, billing, and job history.
 
-**AI & Machine Learning:**
-- OpenAI API, NLP tools, ML model deployment, RAG Pipelines, N8N Automations
+**AutoRecAI** — AI-integrated web scraper for the UK market. NHS data, LinkedIn profiles, general site extraction — feeding structured intelligence into downstream sales workflows.
 
-**Frontend:**
-- React (Next.js), Vite, Tailwind CSS, Flutter
+**Beam & Bricks** — Full-stack construction platform. Project tracking, client progress dashboards, inventory in/out, investor portals showing live percentages and returns.
 
-**Backend:**
-- FastAPI, Django, Flask
+**Turbo-Learn** — Educational product that turns any uploaded document into quizzes, flashcards, and a chat tutor. Gemini API under the hood.
 
-**Databases:**
-- SQL Server, MySQL, PostgreSQL
+**GraspEdge** *(in progress)* — Agentic visual teaching platform. The next chapter for Codantrix.
 
-**DevOps & Deployment:**
-- Render, Vercel, Firebase, GitHub Actions
+## Stack
 
-**Design Tools:**
-- Figma, Canva, Adobe Illustrator, Custom UI systems
+**Languages** — Python, JavaScript / TypeScript
+**Frontend** — React, Next.js, React Native, Tailwind
+**Backend** — Node.js, Next.js (API routes), Python
+**AI** — LLM APIs (OpenAI, Anthropic, Gemini), OpenAI Agent SDK, LangChain, Ollama, RAG, n8n
+**Data** — PostgreSQL, vector databases
+**Deploy** — Vercel, Render, Docker
 
----
+## Where the work lives
 
-## 🧑‍🎨 Beyond Tech
-
-- 🎸 Guitarist | 🖌️ Calligrapher | 🎨 Painter | ✍️ Occasional writer and reader  
-- I seek peace at night and challenge during the day.  
-- My ultimate goal? To make **Technologistics a leading software hub** and an **inspiration to others.**
+- **Portfolio** — [hassanalimehdi.dev](https://hassanalimehdi.dev)
+- **LinkedIn** — [linkedin.com/in/hassan-ali-mehdi](https://linkedin.com/in/hassan-ali-mehdi)
+- **Email** — hello@hassanalimehdi.dev
 
 ---
 
-## 📈 Current Focus
+> Architecture, system design, and decisions are where I spend my hours. AI is the implementation layer. The output is full systems, not prototypes that die in a Jupyter notebook.
 
-- 🧭 Implementing the **AI Mastery Roadmap** to equip students with hands-on AI expertise
-- 💡 Building meaningful projects in AI, automation, and problem-solving
-
----
-
-## 📬 Connect With Me
-
-- 📧 Email: hassan.mehdi.superior@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/hassan-ali-mehdi](https://linkedin.com/in/hassan-ali-mehdi)  
-- 📱 Phone: +92-327-4320706
-
----
-
-Here are high-value projects and contributions you should consider building or uploading:
-
-1. **AI Mastery Roadmap Website** – Showcase the structure, progress, and student success stories.
-2. **Student Record Management System (SRMS)** – Full-stack app with DB + frontend (with optional charts/graphs).
-3. **Arabic RAG Pipeline** – Private chat with 100 PDFs using Milvus and Open Source Arabic LLMs.
-4. **Crop Yield Prediction Model** – Use ML (Random Forest, GridSearchCV) with explainability.
-5. **Technologistics Portfolio Site** – Company offerings, testimonials, Instagram feed integration.
-
----
-
-> Let your actions make noise. Let your vision speak volumes.
+*Six years coding. Open to AI engineering and full-stack roles where shipped beats shiny.*
